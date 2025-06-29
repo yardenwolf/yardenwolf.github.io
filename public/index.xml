@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Yarden Wolf</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Yarden Wolf</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Jun 2025 11:14:54 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Palantir - Another Overvalued But Booming AI Firm</title>
+      <link>http://localhost:1313/posts/palantir_valuation_29062025/my-first-post/</link>
+      <pubDate>Sun, 29 Jun 2025 11:14:54 +0100</pubDate>
+      <guid>http://localhost:1313/posts/palantir_valuation_29062025/my-first-post/</guid>
+      <description>Valuation of Palantir (PLTR) as of Q1 2025</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi, I’m Yarden Wolf. I hold an &lt;strong&gt;MSc in Financial Engineering (Distinction)&lt;/strong&gt; from &lt;em&gt;Imperial College London&lt;/em&gt; and a &lt;strong&gt;BSc in Computer Science with a minor in Economics&lt;/strong&gt; from &lt;em&gt;the Technion&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I’m passionate about both private and public markets, with particular interest in &lt;strong&gt;private debt&lt;/strong&gt;, &lt;strong&gt;private equity&lt;/strong&gt;, &lt;strong&gt;alternative investments&lt;/strong&gt;, and &lt;strong&gt;quantitative approaches&lt;/strong&gt; to understanding macroeconomic trends and market risks. I believe that having a well-rounded understanding of modern finance is more important than ever, especially as markets evolve rapidly with the rise of AI.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
